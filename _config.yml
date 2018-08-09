@@ -1,8 +1,7 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    GitHub: https://github.com/CharleyWuCL
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -12,10 +11,16 @@ logo: /favicon.png
 # e.g disqus: seansun
 disqus:
 duoshuo:
+gitment:
+    enable: true
+    owner: CharleyWuCL
+    repo: charleywucl.github.io
+    client_id: a3aebd7727cc175c2796
+    client_secret: 130cd80e9084e3fcd78d7dffd34c497c96f5b2cd
 
 # Analytics
 # google-analytics:
-# ga: UA-xxxxxxxx-x
+ga: UA-65933410-1
 
 # Copyright Infomation
 startyear: 2015
